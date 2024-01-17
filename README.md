@@ -1,6 +1,6 @@
 # tictactoe
 
-A new Flutter project.
+A silly project of using flutter to draw out interactive tic-tac-toe.
 
 ## Getting Started
 
